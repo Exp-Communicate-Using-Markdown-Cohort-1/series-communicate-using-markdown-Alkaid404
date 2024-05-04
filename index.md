@@ -8,3 +8,6 @@
 ```
 cout<<"hello github"<<endl;
 ```
+## Adding a task list
+- [ ] What to do
+- [x] have done
